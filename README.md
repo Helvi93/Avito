@@ -15,4 +15,4 @@
 
 Для запуска определенного теста необходимо ввести путь к файлу с тестом. Например:
 
-    python -m pytest -sv .\tests\test_buy_product.py
+    python -m pytest -sv .\Ecercise_2\tests\zero_value\test_zero_value.py
